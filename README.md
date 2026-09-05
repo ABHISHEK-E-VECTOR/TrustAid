@@ -2,9 +2,6 @@
 
 ### AI + Blockchain Powered Donation Transparency Platform
 
-> **Team:** Ignis Shunya  
-> **Hackathon:** HackIndia Hackathon
-
 TrustAid is a transparent donation management platform that helps donors understand **where their money goes after they donate**.
 
 It connects the complete journey of a donation:
